@@ -1,5 +1,5 @@
 # Docker Image for Zentao
-[![Docker Build Status](https://img.shields.io/docker/build/yehai/zentao.svg)](https://hub.docker.com/r/idoop/zentao/)
+[![Docker Build Status](https://img.shields.io/docker/build/yehai/zentao.svg)](https://hub.docker.com/r/yehai/zentao/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/yehai/zentao.svg)](https://hub.docker.com/r/yehai/zentao-pro/)
 [![Docker Automated build](https://img.shields.io/docker/automated/yehai/zentao.svg)](https://hub.docker.com/r/yehai/zentao/)
 [![ImageLayers Size](https://img.shields.io/imagelayers/image-size/yehai/zentao/latest.svg)](https://hub.docker.com/r/yehai/zentao/)
@@ -7,7 +7,7 @@
 
 Auto build docker image for zentao(禅道).
 
-DockerHub:[https://hub.docker.com/r/idoop/zentao/](https://hub.docker.com/r/idoop/zentao/)
+DockerHub:[https://hub.docker.com/r/idoop/zentao/](https://hub.docker.com/r/yehai/zentao/)
 
 Zentao
 - Version: `9.8.1` *Linux_X64*
