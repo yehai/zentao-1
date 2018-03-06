@@ -1,13 +1,13 @@
 # Docker Image for Zentao
-[![Docker Build Status](https://img.shields.io/docker/build/yehai/zentao.svg)](https://hub.docker.com/r/yehai/zentao/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/yehai/zentao.svg)](https://hub.docker.com/r/yehai/zentao-pro/)
-[![Docker Automated build](https://img.shields.io/docker/automated/yehai/zentao.svg)](https://hub.docker.com/r/yehai/zentao/)
-[![ImageLayers Size](https://img.shields.io/imagelayers/image-size/yehai/zentao/latest.svg)](https://hub.docker.com/r/yehai/zentao/)
-[![ImageLayers Layers](https://img.shields.io/imagelayers/layers/yehai/zentao/latest.svg)](https://hub.docker.com/r/yehai/zentao/)
+[![Docker Build Status](https://img.shields.io/docker/build/yehai/zentao-pro.svg)](https://hub.docker.com/r/yehai/zentao-pro/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/yehai/zentao-pro.svg)](https://hub.docker.com/r/yehai/zentao-pro/)
+[![Docker Automated build](https://img.shields.io/docker/automated/yehai/zentao-pro.svg)](https://hub.docker.com/r/yehai/zentao/)
+[![ImageLayers Size](https://img.shields.io/imagelayers/image-size/yehai/zentao-pro/latest.svg)](https://hub.docker.com/r/yehai/zentao-pro/)
+[![ImageLayers Layers](https://img.shields.io/imagelayers/layers/yehai/zentao-pro/latest.svg)](https://hub.docker.com/r/yehai/zentao-pro/)
 
-Auto build docker image for zentao(禅道).
+Auto build docker image for zentao(禅道-专业版).
 
-DockerHub:[https://hub.docker.com/r/idoop/zentao/](https://hub.docker.com/r/yehai/zentao/)
+DockerHub:[https://hub.docker.com/r/yehai/zentao-pro/](https://hub.docker.com/r/yehai/zentao-pro/)
 
 Zentao
 - Version: `9.8.1` *Linux_X64*
